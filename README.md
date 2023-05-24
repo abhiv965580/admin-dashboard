@@ -1,6 +1,6 @@
 # Description:
 
-This PR introduces the Admin Dashboard Project of the Odin Project's Intermediate HTML and CSS section. From this project I've implemented the use of grids to customize the layout of the web-page.
+This Repo introduces the Admin Dashboard Project of the Odin Project's Intermediate HTML and CSS section. From this project I've implemented the use of grids to customize the layout of the web-page.
 
 The screenshot of UI is attached in this PR for reference
 
