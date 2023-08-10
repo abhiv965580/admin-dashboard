@@ -12,7 +12,7 @@ The screenshot of UI is attached in this Repo for reference
 - Mostly used **Display: grid** property as stated by the project description
 - Currently there is dummy content in the **project description** and **announcements** as well
 
-### Live Link - https://abhishek310001.github.io/admin-dashboard/
+### Live Link - https://abhiv965580.github.io/admin-dashboard/
 
 ### Project Link - https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard
 
